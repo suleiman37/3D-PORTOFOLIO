@@ -1,0 +1,4 @@
+<p className='grid-headtext'>Hi, I am Suleiman</p>
+              <p className='grid-subtext'>With 12 years of exprience , I have honed my skills
+                 in frontend and backend devolopement,
+                  with a focus on animate 3D websites</p>
